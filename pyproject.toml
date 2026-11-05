@@ -1,0 +1,4 @@
+[project]
+name = "ai-multihead-attention"
+version = "0.1.0"
+description = "Splits queries, keys, and values into multiple projection heads for joint representation subspace attending."
